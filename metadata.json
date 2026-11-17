@@ -1,0 +1,6 @@
+{
+  "name": "Hệ bất phương trình bậc nhất — TikZ",
+  "description": "Công cụ vẽ miền nghiệm hệ bất phương trình bậc nhất hai ẩn tương tác và sinh mã TikZ chuẩn xác.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
